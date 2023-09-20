@@ -1,3 +1,4 @@
 # Chatty
 
-![image](https://github.com/wilsonneto-dev/Chatty/assets/20674439/afc3d2ff-15f3-406e-8f8e-9254c681ac04)
+![image](https://github.com/wilsonneto-dev/Chatty/assets/20674439/30ed6405-d880-48cb-8651-24e045742cb6)
+
